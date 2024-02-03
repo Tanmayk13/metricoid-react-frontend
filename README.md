@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-02-03 151358](https://github.com/Tanmayk13/metricoid-react-frontend/assets/93090447/3d875fc2-58bb-4f0b-937e-aa13a38a06bd)
+
 
 ## Available Scripts
 
